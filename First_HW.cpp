@@ -31,7 +31,7 @@ int main()
         std:: cout << "Вы ввели 0. Рассчитать квадратное уравнение невозможно. Попробуйте снова" << std:: endl;
     }
 
-    std:: cout << "Who we are?" << std:: endl;
+    std:: cout << "Who we are? All we need" << std:: endl;
     
     return 0;
 }
